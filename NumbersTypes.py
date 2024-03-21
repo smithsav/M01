@@ -24,5 +24,5 @@ seconds_per_day / seconds_per_hour
 # 3.6 Divide seconds_per_day by seconds_per_hour, using integer (//) division.
 # Did this number agree with the floating-point value from the previous question, aside from the final .0?
 
-seconds_per_day // seconds_per_hourseconds_per_day // seconds_per_hour
+seconds_per_day // seconds_per_hour
 # yes same value, aside from the final .0.
